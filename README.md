@@ -31,10 +31,3 @@ Follow these steps to get the Cold Mail Generator up and running:
    ```commandline
    streamlit run app/main.py
    ```
-
-## Contact
-
-For questions or feedback, please feel free to reach out:
-
-- Author: Kunal Tilaganji 
-   

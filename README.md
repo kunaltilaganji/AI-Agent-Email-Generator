@@ -1,6 +1,6 @@
 # 📧 Cold Mail Generator
 
-A cold email generator built with **Grok**, **LangChain**, and **Streamlit**. This tool allows users to input the URL of a company's careers page, extracts job listings from that page, and generates personalized cold emails. The emails include relevant portfolio links sourced from a vector database, tailored to the specific job descriptions.
+A cold email generator built with **Groq**, **LangChain**, and **Streamlit**. This tool allows users to input the URL of a company's careers page, extracts job listings from that page, and generates personalized cold emails. The emails include relevant portfolio links sourced from a vector database, tailored to the specific job descriptions.
 
 ## Use Case Example
 
